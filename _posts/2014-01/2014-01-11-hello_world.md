@@ -1,7 +1,9 @@
 ---
 layout: post
 category: test
-title: Say `Hello World!` to the outside
+title: Say "Hello World!" to the outside
 ---
 
-## To see if everything works as expected.
+## Hello World!
+
+To see if everything works as expected.
