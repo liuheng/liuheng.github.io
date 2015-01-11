@@ -1,2 +1,15 @@
+markdown: rdiscount
 highlighter: pygments
-github: [Repository metadata]
+permalink: /posts/:title.html
+rdiscount:
+  extensions: [smart]
+
+title: Thomas's Blog
+author:
+  name: Thomas Liu
+  email: liuheng0204@gmail.com
+  github: liuheng
+
+production_url: http://merovingian.me
+
+baseurl: /

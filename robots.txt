@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /assets
+Allow: /posts
+Sitemap: http://merovingian.me/sitemap.txt
+Sitemap: http://merovingian.me/atom.xml
