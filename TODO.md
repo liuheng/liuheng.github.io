@@ -1,4 +1,4 @@
-1. For improving written-english skill(which should not be a barrior), all the posts will be written in english.
+1. For improving written-english skill(which should not be a barrior), most the posts(especially technical posts) will be written in english.
 
 2. Posts should at least contain the following topics:
 
@@ -30,7 +30,7 @@
 
 		**#life**
 
-	- music, especially classic music
+	- music, especially classical music
 
 		**#music**
 
