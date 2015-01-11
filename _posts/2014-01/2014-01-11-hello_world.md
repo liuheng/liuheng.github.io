@@ -1,6 +1,6 @@
 ---
 layout: post
-category: test
+categories: intro
 title: Say "Hello World!" to the outside
 ---
 
