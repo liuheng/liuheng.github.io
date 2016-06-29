@@ -46,7 +46,7 @@ task :atom do
   Net::HTTP.get(
                 'www.google.com',
                 '/webmasters/tools/ping?sitemap=' +
-                URI.escape('http://merovingian.me/atom.xml')
+                URI.escape('https://liuheng.github.io/atom.xml')
                 )
 end
 
